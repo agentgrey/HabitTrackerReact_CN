@@ -1,4 +1,22 @@
-# Getting Started with Create React App
+# Habit Tracker
+
+Habit Tracker is a simple web application built with React that allows users to track their daily habits and monitor their progress over time.
+
+## Features
+
+- Add new habits with customizable titles.
+- Track daily progress with a simple toggle system.
+- View habits in a daily or weekly view.
+- Automatically save and load habit data from local storage.
+
+## Technologies Used
+
+- React: A JavaScript library for building user interfaces.
+- React Router: A routing library for React applications.
+- HTML5 & CSS3: Markup and styling of the application.
+- Local Storage: For storing habit data in the browser.
+  
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
